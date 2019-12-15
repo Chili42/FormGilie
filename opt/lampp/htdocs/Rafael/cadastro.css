@@ -1,0 +1,28 @@
+.form-group {
+    margin-left: 20px !important;
+}
+
+.form-control {
+    width: 500px !important;
+}
+
+#sis {
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+    margin-left: 20px;
+    width: 80px;
+    background-color: rgb(35, 35, 255) !important;
+    color: white !important;
+}
+
+article {
+    width: 100% !important;
+    box-sizing: border-box !important;
+    padding: 10px !important;
+    background-color: blue !important;
+    margin-bottom: 5px !important;
+    color: white !important;
+}
